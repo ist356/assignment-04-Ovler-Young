@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Chengyu Jin
+Sudent Email:  cjin20@syr.edu
 
 ## Instructions
 
@@ -23,3 +23,6 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+1. While working on the assignment, I encountered an issue with running tests in Python 3.13. This problem took over 30 minutes to troubleshoot. Eventually, I discovered that downgrading to Python 3.12 resolved the issue. It was a reminder to always consider environment compatibility when debugging.
+
+2. I'm still not very comfortable with separating utility functions into standalone files like `pandaslib.py`. My personal habit is to write everything in one file initially, and only refactor into separate modules when I see opportunities for optimization. While this approach works for me, I realize that adopting a more modular workflow from the start could be beneficial for long-term maintainability and collaboration.
